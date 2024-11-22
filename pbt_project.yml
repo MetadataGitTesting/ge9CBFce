@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: nigelgreen
-  parentArtefactID: ''
+  parentArtefactID: tech1rjzxs4paqvrq1iwhx9wcomteam
   buildSystem: maven
   author: null
   createdAt: '2024-11-22 23:01:23'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 109
     projectName: sumiko.schinner
     repositoryPath: gitUri=http://gitserver:3000/dev_kZGiwZvA_team_172/dev_kZGiwZvA_project_109.git&subPath=
-    version: sumiko.schinner/0.02.980
+    version: sumiko.schinner/3.4.399
     isDefault: false
     author: null
-    createdAt: '2024-11-22 23:01:21'
+    createdAt: '2024-11-22 23:01:50'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
